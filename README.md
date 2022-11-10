@@ -30,3 +30,6 @@ $ diff -u0 a.txt b.txt |python ignore_newlines.py -u
 +and more!
 
 ```
+Because even TortoiseGitMerge doesn't skip newlines:
+![image](https://user-images.githubusercontent.com/9662163/201135057-ed14f0e3-a370-4f8c-9d2c-101781a27a9f.png)
+
